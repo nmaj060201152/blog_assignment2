@@ -4,7 +4,7 @@ const page = () => {
   return (
     <div>
       <h1>
-        "NAvaid Majeed Sumalani"
+        "Navaid Majeed Sumalani"
       </h1>
     </div>
   )
